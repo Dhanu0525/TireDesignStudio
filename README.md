@@ -11,8 +11,7 @@
 
 ### Installation
 
-1. Clone the repository:
-   git clone https://github.com/Dhanu0525/TireDesignStudio.git
+1. Clone the repository:  git clone https://github.com/Dhanu0525/TireDesignStudio.git
 2.Navigate to the project directory
    cd TireDesignStudio
 3.Install dependencies:
